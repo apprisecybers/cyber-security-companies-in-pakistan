@@ -4,6 +4,7 @@ A list of cyber security companies or companies that have their own Cyber Securi
 
 <h2>Companies that are providing Penetration Testing Services</h2>
 <ol>
+     <li><a href="[https://apprise-cyber.com/)" target="_blank">Apprise Cyber</a></li>
     <li><a href="https://dunicot.com/" target="_blank">Dunicot</a></li>
     <li><a href="https://infosecurity.com.pk/" target="_blank">Trillium Information Security System</a></li>
     <li><a href="https://www.ebryx.com/" target="_blank">Ebryx</a></li>
